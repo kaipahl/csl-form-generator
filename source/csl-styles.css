@@ -1,0 +1,14 @@
+.form__row {
+    padding: 8px;
+    display: flex;
+}
+LABEL {
+    display: block;
+    width: 15%;
+    padding: 4px 4px 4px 0;
+    text-align: right;
+}
+INPUT {
+    display: block;
+    padding: 4px 2px;
+}
